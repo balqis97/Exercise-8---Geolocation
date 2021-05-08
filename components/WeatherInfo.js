@@ -11,7 +11,7 @@ export default function WeatherInfo({currentWeather}) {
      const iconUrl = `https://openweathermap.org/img/wn/${icon}@4x.png`
     return (
         <View>
-            <Text style={styles.text1}>Hello balqis ! </Text> 
+            <Text style={styles.text1}>Hello Siti Nurbalqis ! (1715230) </Text> 
             <View style={styles.weatherinfo}>
         
                 <Text style={styles.textName}> {name} </Text>
